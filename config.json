@@ -1,0 +1,8 @@
+{
+    "mysql":{
+        "host":"52.51.179.29",
+        "database":"Test_middle",
+        "user":"root",
+        "password":"themask.69"
+    }
+}
