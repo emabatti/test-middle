@@ -34,7 +34,7 @@ Il servizio è strutturato da tre file principali:
 
 Per avviare il progetto, è sufficiente accedere da terminale alla cartella dov'è situato il file `main.py` e utilizzare la libreria **Uvicorn** precedentemente installata:
 ```
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 ```
 La dicitura `--reload` permette il ricaricamento automatico del codice da parte di Uvicorn in caso di modifiche dello stesso.
 
